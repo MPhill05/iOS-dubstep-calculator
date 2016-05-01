@@ -12,6 +12,9 @@
 		4D2F29511CD575A100F1D46E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D2F294F1CD575A100F1D46E /* Main.storyboard */; };
 		4D2F29531CD575A100F1D46E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D2F29521CD575A100F1D46E /* Assets.xcassets */; };
 		4D2F29561CD575A100F1D46E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D2F29541CD575A100F1D46E /* LaunchScreen.storyboard */; };
+		4D2F295E1CD5848500F1D46E /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4D2F295D1CD5848500F1D46E /* Minecraft.ttf */; };
+		4D2F297E1CD5923100F1D46E /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4D2F297D1CD5923100F1D46E /* btn.wav */; };
+		4D2F29801CD592AD00F1D46E /* wub.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4D2F297F1CD592AD00F1D46E /* wub.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		4D2F29521CD575A100F1D46E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D2F29551CD575A100F1D46E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4D2F29571CD575A100F1D46E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D2F295D1CD5848500F1D46E /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		4D2F297D1CD5923100F1D46E /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
+		4D2F297F1CD592AD00F1D46E /* wub.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = wub.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +64,11 @@
 				4D2F294D1CD575A100F1D46E /* ViewController.swift */,
 				4D2F294F1CD575A100F1D46E /* Main.storyboard */,
 				4D2F29521CD575A100F1D46E /* Assets.xcassets */,
+				4D2F295D1CD5848500F1D46E /* Minecraft.ttf */,
 				4D2F29541CD575A100F1D46E /* LaunchScreen.storyboard */,
 				4D2F29571CD575A100F1D46E /* Info.plist */,
+				4D2F297D1CD5923100F1D46E /* btn.wav */,
+				4D2F297F1CD592AD00F1D46E /* wub.wav */,
 			);
 			path = "dubstep-calculator";
 			sourceTree = "<group>";
@@ -123,8 +132,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D2F297E1CD5923100F1D46E /* btn.wav in Resources */,
 				4D2F29561CD575A100F1D46E /* LaunchScreen.storyboard in Resources */,
 				4D2F29531CD575A100F1D46E /* Assets.xcassets in Resources */,
+				4D2F29801CD592AD00F1D46E /* wub.wav in Resources */,
+				4D2F295E1CD5848500F1D46E /* Minecraft.ttf in Resources */,
 				4D2F29511CD575A100F1D46E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
